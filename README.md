@@ -7,7 +7,7 @@
 
 [Ejercicio de  Bases de datos](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Ej1_BasesDatos_Equipo_9%20.pdf)
 
-[Ejercicios  básicos de Python](http://localhost:8888/notebooks/Ejercicios%20b%C3%A1sicos%20de%20Python.ipynb)
+[Ejercicios  básicos de Python](http://localhost:8889/notebooks/Ej_Python_1808039.ipynb)
 
 ## Fase II
 
