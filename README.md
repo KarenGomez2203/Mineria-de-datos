@@ -13,7 +13,7 @@
 
 ## Fase II
 [Presentación Métricas de evaluación](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Presentaci%C3%B3n_M%C3%A9tricas_de_evaluaci%C3%B3n_Equipo9.pdf)
-[Kahoot](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Resultados%20Kahoot-Metr%C3%ADcas%20de%20Evaluaci%C3%B3n.pdf)
 
+[Kahoot](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Resultados%20Kahoot-Metr%C3%ADcas%20de%20Evaluaci%C3%B3n.pdf)
 ## Fase III
 
