@@ -12,6 +12,8 @@
 
 [Práctica de Limpieza de base de datos](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/Ej_Limpieza_Equipo9.ipynb)
 
+[Primer Avance PIA](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/Avance1_PIA_Equipo9.ipynb)
+
 ## Fase II
 [Presentación Métricas de evaluación](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Presentaci%C3%B3n_M%C3%A9tricas_de_evaluaci%C3%B3n_Equipo9.pdf)
 
