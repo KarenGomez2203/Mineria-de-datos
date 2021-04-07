@@ -10,7 +10,7 @@
 
 [Ejercicios  básicos de Python](https://github.com/KarenGomez2203/Mineria-de-datos/blob/main/Ej_Python_1808039.ipynb)
 
-[Práctica de Limpieza de base de datos](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/Ej_Limpieza_Equipo9.ipynb)
+[Práctica de Limpieza de base de datos](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/Practica%20de%20limpieza/Ej_Limpieza_Equipo9.ipynb)
 
 [Primer Avance PIA](https://github.com/EmmanuelGalvan/MineriaDatos/blob/main/Archivos/PIA/Avance1_PIA_Equipo9.ipynb)
 
